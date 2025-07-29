@@ -2,11 +2,13 @@
 
 <h2> 💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Creating a Virtual Machine Within Azure</b>
   - [osTicket: Prerequisites and Installation](https://github.com/daysiret/osticket-prereqs)
+
+- <b>VPN Set Up and Usage</b>
   - [osTicket: Post-Installation Configuration](https://github.com/daysiret/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+ 
+- <b>Creating Users with PowerShell</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/daysiret/configure-ad)
 
 
