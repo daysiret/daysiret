@@ -3,7 +3,7 @@
 <h2> 💻 Information Technology Projects:</h2>
 
 - <b>Creating a Virtual Machine Within Azure</b>
-  - [Azure: Prerequisites and Tutorial](https://github.com/daysiret/osticket-prereqs)
+  - [Azure: Prerequisites and Tutorial](https://github.com/daysiret/PrerequisitesandTutorial)
 
 - <b>VPN Set Up and Usage</b>
   - [Azure: Post-Installation Configuration](https://github.com/daysiret/post-install-config)
