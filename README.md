@@ -1,4 +1,4 @@
-## Hi there my name is Daysi, an <a href="https://linkedin.com/in/DaysiRetana">IT Professional</a>☺</h1>
+## Hi there my name is Daysi, an <a href="https://linkedin.com/in/daysi-retana-/">IT Professional</a>☺</h1>
 
 <h2> 💻 Information Technology Projects:</h2>
 
