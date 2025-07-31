@@ -5,10 +5,5 @@
 - <b>Creating a Virtual Machine Within Azure</b>
   - [Azure: Prerequisites and Tutorial](https://github.com/daysiret/PrerequisitesandTutorial)
 
-- <b>VPN Set Up and Usage</b>
-  - [Azure: Post-Installation Configuration](https://github.com/daysiret/post-install-config)
- 
-- <b>Creating Users with PowerShell</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/daysiret/configure-ad)
 
 
